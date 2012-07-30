@@ -1,0 +1,11 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1343673519566" ID="ID_1693269750" MODIFIED="1343673524625" TEXT="codercamp2012">
+<node CREATED="1343673526075" ID="ID_1499004766" MODIFIED="1343673528837" POSITION="right" TEXT="intro">
+<node CREATED="1343673529125" ID="ID_647595860" MODIFIED="1343673530392" TEXT="who am I"/>
+<node CREATED="1343673530913" ID="ID_1313018632" MODIFIED="1343673532366" TEXT="why embedded"/>
+</node>
+<node CREATED="1343673533806" ID="ID_182043193" MODIFIED="1343673536025" POSITION="left" TEXT="raspberrypi"/>
+<node CREATED="1343673536351" ID="ID_756648220" MODIFIED="1343673537377" POSITION="left" TEXT="arduino"/>
+</node>
+</map>
