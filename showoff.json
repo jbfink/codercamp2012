@@ -2,7 +2,8 @@
   "sections": [ 
    {"section":"intro"},
    {"section":"arduino"},
-   {"section":"raspberrypi"}
+   {"section":"raspberrypi"},
+   {"section":"future"}
  
  ]
 }
