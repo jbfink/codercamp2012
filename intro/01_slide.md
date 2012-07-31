@@ -3,6 +3,11 @@
 
 !SLIDE
 # Who am I? #
+## john.fink@gmail.com ##
+## twitter: @adr ##
+## g+: http://gplus.to/jbfink ##
+
+
 .notes blah blah blah
 
 !SLIDE
