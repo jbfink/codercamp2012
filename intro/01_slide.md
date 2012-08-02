@@ -18,8 +18,11 @@
 # Why embedded hardware *now*? #
 
 !SLIDE bullets incremental
-# Bullet Points #
+# A recent explosion of cheap(ish) hw #
 
-* first point
-* second point
-* third point
+* pandaboard / beagleboard / beagleboard XM
+* various TI dev boards
+* BASIC stamp
+* *Usually* open-ish.
+
+.notes BASIC stamp not so recent. Note that most/all of these boards have cheap / easy / free / cross-platform programming toolsNote that most/all of these boards have cheap / easy / free / cross-platform programming tools.
