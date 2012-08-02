@@ -8,3 +8,4 @@
 !SLIDE full-size
 ![img/bbc-modelb.jpg](img/bbc-modelb.jpg)
 
+.notes ask if anyone knows what this. Mention Model B and Model A and how creators of RPi are trying purposefully to ape the UK's educational computing history, etc.
