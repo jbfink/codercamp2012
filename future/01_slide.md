@@ -17,5 +17,5 @@
 !SLIDE bullets incremental
 # FPGAs? #
 
-* Field Programmable Gate Array
-* No idea.
+.notes "Field Programmable Gate Array". No idea what this is really. I'm putting this in here because I hope *you* know what it is. Do you?
+
