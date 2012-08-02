@@ -31,7 +31,7 @@
 * BASIC stamp
 * *Usually* open-ish.
 
-.notes BASIC stamp not so recent. Note that most/all of these boards have cheap / easy / free / cross-platform programming toolsNote that most/all of these boards have cheap / easy / free / cross-platform programming tools.
+.notes BASIC stamp not so recent. Note that most/all of these boards have cheap / easy / free / cross-platform programming tools
 
 !SLIDE 
 # Correlative? Causative? #
