@@ -15,6 +15,8 @@
 * Audio out
 * Micro USB for power 
 * SD slot
+* Lots of GPIO pins
+* Camera/LCD headers
 
 !SLIDE full-page
 ![img/raspi_blue_white.png](img/raspi_blue_white.png)
