@@ -11,11 +11,15 @@
 ## john.fink@gmail.com ##
 ## twitter: @adr ##
 ## g+: http://gplus.to/jbfink ##
+## https://github.com/jbfink
 
 .notes blah blah blah. Do the interrupt me/who are you dance.
 
-!SLIDE
+!SLIDE bullets incremental
 # Why embedded hardware? #
+* Cheap!
+* Functional!
+* Fun!
 
 .notes ... 
 
