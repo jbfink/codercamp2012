@@ -16,6 +16,7 @@
 * Micro USB for power 
 
 !SLIDE bullets incremental
+# ..more ports! #
 * SD slot
 * Lots of GPIO pins
 * Camera/LCD headers

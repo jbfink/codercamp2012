@@ -12,6 +12,7 @@
 * RISC OS 
 * Android (4.0)
 
-.notes *not* Ubuntu, the ARM architecture is too old. But Fedora/Debian/Raspbian/Arch. Maybe others. Note specific Linux variants, mostly HTPC related (raspmc, elec-whatever)
+
+.notes *not* Ubuntu, the ARM architecture is too old. But Fedora/Debian/Raspbian/Arch. Maybe others. Note specific Linux variants, mostly HTPC related (raspmc, elec-whatever). Note that in educational contexts the language of choice is usually Python.
 
 
