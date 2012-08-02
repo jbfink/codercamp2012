@@ -7,7 +7,7 @@
 * Makes it hard (impossible?) to brick
 
 !SLIDE bullets incremental
-
+# Operating systems #
 * Linux variants
 * RISC OS 
 * Android (4.0)

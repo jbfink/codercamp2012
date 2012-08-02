@@ -14,6 +14,8 @@
 * Composite out
 * Audio out
 * Micro USB for power 
+
+!SLIDE bullets incremental
 * SD slot
 * Lots of GPIO pins
 * Camera/LCD headers
