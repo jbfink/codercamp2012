@@ -34,3 +34,12 @@
 
 .notes This is intentional. Jillion billion clones, yet Arduino still in business, still makes money. Show your clone if you brought it. Note that Arduinos are around $25-$30 from digikey. 
 
+!SLIDE bullets incremental
+# People have built... #
+* Keyless door entries!
+* EMF detectors!
+* Solar tracking stations!
+* Satellites!
+* Auto-watering gardens!
+* Xylophones!
+
