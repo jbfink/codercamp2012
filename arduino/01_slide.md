@@ -30,6 +30,7 @@
 * Chip is non-proprietary
 * Schematics are open...
 * ...so there are *lots* of clones
+* *Name* is trademarked.
 
-.notes This is intentional. Jillion billion clones, yet Arduino still in business, still makes money. Show your clone if you brought it. Note that Arduinos are around $25-$30 from digikey.
+.notes This is intentional. Jillion billion clones, yet Arduino still in business, still makes money. Show your clone if you brought it. Note that Arduinos are around $25-$30 from digikey. 
 
