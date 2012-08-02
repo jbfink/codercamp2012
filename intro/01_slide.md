@@ -15,7 +15,9 @@
 .notes blah blah blah. Do the interrupt me/who are you dance.
 
 !SLIDE
-# Why embedded hardware *now*? #
+# Why embedded hardware? #
+
+.notes ... 
 
 !SLIDE bullets incremental
 # A recent explosion of cheap(ish) hw #
@@ -26,7 +28,10 @@
 * *Usually* open-ish.
 
 .notes BASIC stamp not so recent. Note that most/all of these boards have cheap / easy / free / cross-platform programming toolsNote that most/all of these boards have cheap / easy / free / cross-platform programming tools.
-!SLIDE 
-# Title here #
 
+!SLIDE 
+# Correlative? Causative? #
+* Hackerspaces and DIY ethics
+
+.notes Cheap hardware + interested people == projects == hackerspaces. Plug Thinkhaus a bit.
 
