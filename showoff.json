@@ -1,4 +1,4 @@
-{ "name": "My Preso", 
+{ "name": "Embedded Hardware @ Codercamp 2012", 
   "sections": [ 
    {"section":"intro"},
    {"section":"arduino"},

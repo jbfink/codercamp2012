@@ -1,13 +1,11 @@
-!SLIDE 
-# My Presentation #
-
 !SLIDE bullets incremental
-# Bullet Points #
+# Raspberry Pi #
 
-* first point
-* second point
-* third point
+* UK educational charity initiative
+* Went through many board formats
+* ~$35
 
-!SLIDE full-page
-![img/raspi_blue_white.png](img/raspi_blue_white.png)
+!SLIDE full-size
+![img/bbc-modelb.jpg](img/bbc-modelb.jpg)
 
+.notes ask if anyone knows what this. Mention Model B and Model A and how creators of RPi are trying purposefully to ape the UK's educational computing history, etc.
