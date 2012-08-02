@@ -42,3 +42,5 @@
 * Satellites!
 * Auto-watering gardens!
 * Xylophones!
+
+.notes SO MANY THINGS.
