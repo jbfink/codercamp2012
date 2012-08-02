@@ -4,7 +4,7 @@
 !SLIDE full-page
 ![img/bats.jpg](img/bats.jpg)
 
-.notes Bat country. Had to recompile ruby gem.
+.notes Bat country. Had to recompile ruby gem. Apologies.
 
 !SLIDE
 # Who am I? #
